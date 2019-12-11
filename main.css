@@ -1,6 +1,8 @@
 body{
     font-family: sans-serif;
-    padding: 0 25vw;
+    max-width: 450px;
+    margin: auto;
+    padding: 0 10px;
 }
 
 #geo-github {
