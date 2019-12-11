@@ -1,3 +1,9 @@
 body{
     font-family: sans-serif;
+    padding: 0 25vw;
+}
+
+#geo-github {
+    display: block;
+    margin-bottom: 10px;
 }
